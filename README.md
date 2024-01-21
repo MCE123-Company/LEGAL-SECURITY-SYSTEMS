@@ -1,2 +1,2 @@
-# LEGAL-SECURITY-SYSTEMS
-Legal Security Systems
+# MCE123® LEGAL SECURITY SYSTEMS
+MCE123® Legal Security Systems is a set of legal software programs, or computer instances, that monitors The Legal Environment, and automatically acts to correct any misstatements or errors on the part of any third parties, or any misstatements made by any user or owner of the software systems, to ensure that they remain legal in their speech and their writings and their typings, and to make sure that all legal records are documented correctly in all third-party systems.
